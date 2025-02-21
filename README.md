@@ -1,4 +1,9 @@
-git 
-I really like using Markdown
+<h1><strong>ИТ2201<strong><h1>
+________________________________
 
-Don't put tabs or spaces in front of your paragraphs
+<h2><strong>Калайчиди А.И.<strong><h2>
+________________________________
+
+<h3><strong>Репозиторий для лабараторных работ по разработке мобильных приложений<strong><h3>
+
+________________________________
